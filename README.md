@@ -1,2 +1,3 @@
-# nazar-resume
-Data Analyst Resume and Professional Profile
+# Nazar Hado
+## Data Analyst 
+I work with SQL, Python and Tableau.
